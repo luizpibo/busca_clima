@@ -14,7 +14,7 @@ function Display({ cityName, title, wheatherEmoji, temp, humidity, description }
           Temperatura: <span>{temp} °C</span>
         </li>
         <li>
-          Humidade: <span>{humidity} %</span>
+          Umidade: <span>{humidity} %</span>
         </li>
         <li>
           Descrição: <span>{description}</span>

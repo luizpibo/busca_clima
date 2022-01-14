@@ -6,6 +6,11 @@ const Wrapper = Styled.div`
     padding: 1rem;
     height: fit-content;
     width: 80%;
+
+    @media (max-width: 768px) {
+        width: 90%;
+        margin: 2rem 0;
+    };
 `;
 
 export default Wrapper;
