@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/busca_clima_porsherapp/static/css/main.24175ee7.css",
-    "main.js": "/busca_clima_porsherapp/static/js/main.eaddbfce.js",
-    "index.html": "/busca_clima_porsherapp/index.html",
-    "main.24175ee7.css.map": "/busca_clima_porsherapp/static/css/main.24175ee7.css.map",
-    "main.eaddbfce.js.map": "/busca_clima_porsherapp/static/js/main.eaddbfce.js.map"
+    "main.css": "./build/static/css/main.24175ee7.css",
+    "main.js": "./build/static/js/main.f59866c9.js",
+    "index.html": "./build/index.html",
+    "main.24175ee7.css.map": "./build/static/css/main.24175ee7.css.map",
+    "main.f59866c9.js.map": "./build/static/js/main.f59866c9.js.map"
   },
   "entrypoints": [
     "static/css/main.24175ee7.css",
-    "static/js/main.eaddbfce.js"
+    "static/js/main.f59866c9.js"
   ]
 }

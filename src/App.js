@@ -18,7 +18,7 @@ function App() {
     "algumas nuvens": "🌤",
     "nuvens dispersas": "⛅️",
     "nublado": "☁️",
-    "chuva de banho": "🌧",
+    "chuva moderada": "🌧",
     "chuva": "🌧",
     "trovoada": "⛈",
     "neve": "❄️",
