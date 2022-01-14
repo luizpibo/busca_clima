@@ -2,11 +2,15 @@ import Styled from "styled-components";
 
 const Container = Styled.div`
     align-items: center;
-    display: flex;
+    display: grid;
+    grid-template: 1fr / 1fr 1fr;
+    justify-items: center;
     min-height: 100vh;
-    justify-content: center;
     width: 100%;
-    margin-bottom: 2rem;
+
+    @media (max-width: 750px) {
+        grid-template: 1fr / 1fr;
+    }
 `;
 
 export default Container;
